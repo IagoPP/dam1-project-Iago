@@ -1,0 +1,11 @@
+7.
+
+JSON weight: 555 bytes
+XML weight: 932 bytes
+
+storage efficiency: There is a 40,45% of storage space saved when we store the same information of a XML file on a JSON format.
+
+11.
+
+	3. No namespace to which the type attribute belongs
+

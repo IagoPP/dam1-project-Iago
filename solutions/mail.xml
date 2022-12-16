@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <cast>
+      <element>
+         <character>Joe Fox</character>
+         <name>Tom Hanks</name>
+      </element>
+      <element>
+         <character>Kathleen Kelly</character>
+         <name>Meg Ryan</name>
+      </element>
+      <element>
+         <character>Patricia Eden</character>
+         <name>Parker Posey</name>
+      </element>
+      <element>
+         <character>Frank Navasky</character>
+         <name>Greg Kinnear</name>
+      </element>
+      <element>
+         <character>Birdie Conrad</character>
+         <name>Jean Stapleton</name>
+      </element>
+      <element>
+         <character>George Pappas</character>
+         <name>Steve Zahn</name>
+      </element>
+   </cast>
+   <director>
+      <nacionality>USA</nacionality>
+      <name>Nora Ephron</name>
+   </director>
+   <title>You've Got Mail</title>
+   <year>1998</year>
+</root>
